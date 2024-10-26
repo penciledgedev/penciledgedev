@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Uyi Moses
+# 👋 Hi, I’m Uyi Moses (penciledgedev)
 
 **Digital Technology Entrepreneur | Software Engineer | ⚡Polymath | AI & Blockchain Enthusiast | Open-Source Contributor @WordPress**  
 Founder of **[Penciledge LLC](https://penciledge.net)** – Pioneering innovative solutions at the intersection of technology, AI, and blockchain.
@@ -24,6 +24,15 @@ I'm a **digital entrepreneur**, **software engineer**, and **AI enthusiast** wit
 
 ---
 
+## 📊 GitHub Stats
+
+![Uyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=penciledgedev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penciledgedev&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=penciledgedev&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=penciledgedev&theme=radical&no-frame=true&column=4)
+
+---
+
 ## 🌐 Find Me Around the Web
 
 - **Portfolio**: [uyimoses.com](https://www.uyimoses.com/)
@@ -40,13 +49,5 @@ I'm a **digital entrepreneur**, **software engineer**, and **AI enthusiast** wit
 - **Cloud & DevOps Engineering**
 - **Open-source Development**
 - **Entrepreneurship & Innovation**
-
----
-
-## 📈 GitHub Stats
-
-![Uyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=penciledgedev&show_icons=true&theme=radical)
-
----
 
 Feel free to connect or collaborate! Always open to conversations and new ideas in AI, blockchain, and tech. 👨‍💻✨
