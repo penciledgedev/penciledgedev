@@ -11,7 +11,7 @@ I'm a **digital entrepreneur**, **software engineer**, and **AI enthusiast** wit
 
 - **🌍 Location**: Lagos, Nigeria
 - **🏢 Company**: Penciledge LLC
-- **🌐 Website**: [uyimoses.com](https://www.uyimoses.com/)
+- **🌐 Website**: [uyimoses.com](https://www.penciledge.net)
 - **Social**: [@uyimos](https://twitter.com/uyimos)
 
 ---
